@@ -1,29 +1,40 @@
-# Compiled Object files
-*.slo
-*.lo
+nohup.out
+src/*.exe
+src/jtccoin
+src/jtccoind
+src/test_jtccoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
 *.o
-*.obj
+*.patch
+.jtccoin
+src/*coind
 
-# Precompiled Headers
-*.gch
-*.pch
+*.qm
+Makefile
+jtccoin-qt
+Quarkcoin-Qt.app
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
+# Unit-tests
+Makefile.test
+jtccoin-qt_test
 
-# Fortran module files
-*.mod
-*.smod
+# Resources cpp
+qrc_*.cpp
 
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
+# Qt creator
+*.pro.user
 
-# Executables
-*.exe
-*.out
-*.app
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
+*.Debug
+*.Release
+*.pro.*
+*_plugin_import.*
+release
