@@ -1,19 +1,19 @@
 # jtccoin
 Jtccoin what is it?
-Jtccoin is bitcoin using the lite version of the proof-of-work scrypt algorithm.
+Jtccoin is the Lite version of the work of bitcoin using the scrypt algorithm.
 1 minute block target
-880 million gold coins
+88 million gold coins
 The rest of the bitcoin is the same.
 600 gold / block 1 years
-Two grade 300 gold coins
-300 years third coins / block
-3 block GDP8% of the difficulties
-More information, as well as an immediately available binary version of the Jtccoin client software, understands the http://www.jtccoin.cc
+300 level two gold coins
+Third years 300 coins / block
+3 block GDP8% difficulties
+More information, as well as a binary version of the client software jtccoin immediately available, to understand the http://www.jtccoin.cc
 automated testing
-It is strongly recommended that developers write unit tests for new code and submit new unit tests to the old code.
-Core code unit test src/test/. Compile and run:
-SRC make; -f makefile.unix test CD
-Unit test for GUI code src/qt/test/. Compile and run:
-Jtccoin_QT_TEST=1 -o Makefile.test Jtccoin-qt.pro qmake
--f Makefile.test make
-./Jtccoin-qt_test
+Strongly recommend that developers write unit tests for new code and submit new unit tests to old code.
+Core code unit test SRC / test. Compile and run:
+SRC make; makefile.unix CD test F
+GUI code Src / QT / test unit test. Compile and run:
+Jtccoin_qt_test = 1 - makefile.test jtccoin-qt.pro O qmake
+Makefile.test F make
+Jtccoin-qt_test.
