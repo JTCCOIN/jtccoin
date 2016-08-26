@@ -3,20 +3,17 @@ Jtccoin integration/staging tree
 
 http://www.jtccoin.org
 
-Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Jtccoin Developers
+Copyright (c) 2009-2016 JTCcoin Developers
+Copyright (c) 2009-2016 Jtccoin Developers
 
 What is Jtccoin?
 ----------------
 
-Jtccoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+Jtccoin is the use of scrypt algorithm as proof of work.
+1 minutes to confirm the block chain
+Reduce production every 3 months
+~ total output 88 million
+All dug out in 2020
 
 For more information, as well as an immediately useable, binary version of
 the Jtccoin client sofware, see http://www.jtccoin.org.
