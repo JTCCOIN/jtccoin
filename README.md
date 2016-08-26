@@ -1,12 +1,19 @@
 # jtccoin
+Https://www.jtccoin.cc
 Jtccoin what is it?
-Sargent currency Jtccoin (abbreviated: JTC, the currency symbol: J) is a "point to point technology of virtual currency, is MIT/X11 license under an open source software project based on. It can help users to immediately pay any person in the world.
-Sargent coins in technology in bitcoin. Wright currency the same realization principle, Sargent currency creation and its transfer based on an open source cryptographic protocols from any central authority management. In order to improve Sargent currency bitcoin, compared with three significant differences in currency sargent. First, Sargent coin network every 1 minutes can handle a piece, so it can provide faster transaction confirmation. Two, the total output of only 88 million Sargent coin coin sargent. Third, Sargent coins in the workload that algorithm is used scrypt encryption algorithm, which makes compared to the bitcoin, in the ordinary computer for mining Sargent currency easier, understand the http://www.jtccoin.cc
+Is the currency of the open source software.
+Jtccoin. It can help users to immediately pay anyone in the world.
+Jtccoin creation and transfer of any central management of the encryption protocol based on open source. Jtccoin network can be every 1 minutes, so it can provide faster transaction confirmation. Two, only 88 million of production. Jtccoin, the use of scrypt encryption algorithm workload coins algorithm, making it easier to understand than bitcoin, http://www.jtccoin.cc currency in the ordinary computer jtccoin
+Licence
+Jtccoin core is released under the license terms of Massachusetts Institute of Technology. See more information to copy or see https://opensource.org/licenses/mit.
+developing process
+Headquarters are regularly built and tested, but do not guarantee complete stability. Create a label that often points to the new official version of the Jtccoin core.
 automated testing
-Strongly recommend that developers write unit tests for new code and submit new unit tests to old code.
-Core code unit test SRC / test. Compile and run:
-SRC make; makefile.unix CD test F
+Strongly recommend that developers write unit tests for new code and submit new units to old code.
+Core code unit test src/test. Compile and run:
+SRC is the makefile.unix CD test;
 GUI code Src / QT / test unit test. Compile and run:
-Jtccoin_qt_test = 1 - makefile.test jtccoin-qt.pro O qmake
+Jtccoin_qt_test = 1 O qmake makefile.test jtccoin-qt.pro
 Makefile.test F make
-Jtccoin-qt_test.
+Jtccoin-qt_test
+Https://github.com/settings/ssh
