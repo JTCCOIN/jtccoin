@@ -16,7 +16,7 @@ Reduce production every 3 months
 All dug out in 2020
 
 For more information, as well as an immediately useable, binary version of
-the Jtccoin client sofware, see http://www.tccoin.cc.
+the Jtccoin client sofware, see http://www.jtccoin.cc.
 
 License
 -------
